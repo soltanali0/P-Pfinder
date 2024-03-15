@@ -1,20 +1,19 @@
 ## P-Pfinder: Explore Paths and Parameters with Ease
 P-Pfinder is a powerful web tool designed to facilitate the exploration and analysis of complex pathways and parameters within URLs. Whether you're a developer, cybersecurity analyst, or website optimizer, P-Pfinder offers valuable insights into the structure and dynamics of web content.
 
-Installation
+## Installation
 To run P-Pfinder, ensure you have Python installed on your system. You'll also need to install the required libraries using pip:
 
-bash
-Copy code
+```bash
 pip install Flask requests beautifulsoup4
-Usage
+```
+## Usage
 Clone the repository to your local machine:
-bash
-Copy code
+```bash
 git clone https://github.com/yourusername/p-pfinder.git
+```
 Navigate to the project directory:
-bash
-Copy code
+
 cd p-pfinder
 Run the Flask application:
 bash
@@ -25,13 +24,13 @@ How It Works
 P-Pfinder offers two main functionalities: extracting parameters and paths from URLs. Users can access these features through simple API endpoints:
 
 To extract parameters and paths from a specific domain, use the following endpoint:
-http
+HTTP
 Copy code
 GET /extract-links?all=true&domain=https://example.com/
 This request will retrieve parameters and paths from the specified domain, utilizing web archive data if available.
 
 To extract parameters and paths from a specific URL, use the following endpoint:
-http
+HTTP
 Copy code
 GET /extract-links?all=true&url=https://example.com/page
 This request will extract parameters and paths from the provided URL directly, analyzing the content of the page.
