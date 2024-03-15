@@ -1,4 +1,4 @@
-P-Pfinder: Explore Paths and Parameters with Ease
+## P-Pfinder: Explore Paths and Parameters with Ease
 P-Pfinder is a powerful web tool designed to facilitate the exploration and analysis of complex pathways and parameters within URLs. Whether you're a developer, cybersecurity analyst, or website optimizer, P-Pfinder offers valuable insights into the structure and dynamics of web content.
 
 Installation
