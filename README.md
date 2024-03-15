@@ -1,6 +1,9 @@
 ## P-Pfinder: Explore Paths and Parameters with Ease
 P-Pfinder is a powerful web tool designed to facilitate the exploration and analysis of complex pathways and parameters within URLs. Whether you're a developer, cybersecurity analyst, or website optimizer, P-Pfinder offers valuable insights into the structure and dynamics of web content.
 
+![Screenshot 2024-03-15 134016](https://github.com/soltanali0/P-Pfinder/assets/87374678/72ec0fdd-eb08-453e-8a86-ab7c5217f893)
+
+
 ## Installation
 To run P-Pfinder, ensure you have Python installed on your system. You'll also need to install the required libraries using pip:
 
