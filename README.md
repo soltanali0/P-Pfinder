@@ -13,13 +13,13 @@ Clone the repository to your local machine:
 git clone https://github.com/yourusername/p-pfinder.git
 ```
 Navigate to the project directory:
-
+```bash
 cd p-pfinder
-Run the Flask application:
-bash
-Copy code
+```
+```bash
 python app.py
 Access P-Pfinder through your web browser at http://localhost:5000.
+```
 How It Works
 P-Pfinder offers two main functionalities: extracting parameters and paths from URLs. Users can access these features through simple API endpoints:
 
