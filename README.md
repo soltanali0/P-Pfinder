@@ -26,7 +26,7 @@ P-Pfinder offers two main functionalities: extracting parameters and paths from 
 
 To extract parameters and paths from a specific domain, use the following endpoint:
 ```bash
-http://localhost:5000/extract-links?all=true&domain=https://example.com/page
+http://localhost:5000/extract-links?all=true&domain=https://example.com/
 ```
 This request will retrieve parameters and paths from the specified domain, utilizing web archive data if available.
 
